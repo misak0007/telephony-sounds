@@ -1,0 +1,3059 @@
+Package: asterisk-core-sounds-cs-alaw-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-cs-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 12390400
+Filename: asterisk-core-sounds-cs-alaw-ladislav_0.1.1-r1_all.ipk
+Size: 7245944
+SHA256sum: 47d6a6e16f0d38c545db5d2655fabdaebad063453f12c94d86627575e4a7a665
+Description:  Csech core sound Files. alaw format
+
+Package: asterisk-core-sounds-cs-g722-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-cs-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 12390400
+Filename: asterisk-core-sounds-cs-g722-ladislav_0.1.1-r1_all.ipk
+Size: 9134432
+SHA256sum: 3cc929752fbfa21502e22bbaf478f1a1d28b14334f086d2afd2469b1aa4aff5e
+Description:  Csech core sound Files. g722 format
+
+Package: asterisk-core-sounds-cs-g729-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-cs-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1873920
+Filename: asterisk-core-sounds-cs-g729-ladislav_0.1.1-r1_all.ipk
+Size: 1494580
+SHA256sum: 166d9591fe67702586f2b653db0b973dbffea497809b3fb95518708811c75710
+Description:  Csech core sound Files. g729 format
+
+Package: asterisk-core-sounds-cs-gsm-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-cs-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2856960
+Filename: asterisk-core-sounds-cs-gsm-ladislav_0.1.1-r1_all.ipk
+Size: 2191260
+SHA256sum: db2214c39d24651fa76894127be229dafdb9ddf1cf9a8967da2afd5f5773c534
+Description:  Csech core sound Files. gsm format
+
+Package: asterisk-core-sounds-cs-opus-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-cs-opus
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 4218880
+Filename: asterisk-core-sounds-cs-opus-ladislav_0.1.1-r1_all.ipk
+Size: 3426271
+SHA256sum: 4c3e913f4f4462f05cb91c2f00c32a44c88611992bac2311abca6a2a48ec67f8
+Description:  Csech core sound Files. opus format
+
+Package: asterisk-core-sounds-cs-siren14-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-cs-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9359360
+Filename: asterisk-core-sounds-cs-siren14-ladislav_0.1.1-r1_all.ipk
+Size: 8957173
+SHA256sum: 514ee074aaa40ce25bcdd5c23a9bf56e141ad7e3f1771643b969fb54d750b379
+Description:  Csech core sound Files. siren14 format
+
+Package: asterisk-core-sounds-cs-siren7-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-cs-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 6359040
+Filename: asterisk-core-sounds-cs-siren7-ladislav_0.1.1-r1_all.ipk
+Size: 5968390
+SHA256sum: e94104fd98efe05dece0285d02b5548523d1131fd0a5c2a17cdce617448df024
+Description:  Csech core sound Files. siren7 format
+
+Package: asterisk-core-sounds-cs-sln16-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-cs-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 48435200
+Filename: asterisk-core-sounds-cs-sln16-ladislav_0.1.1-r1_all.ipk
+Size: 29406790
+SHA256sum: d5990adfa07fc05ca311517bf1fca23456b709a4c098ee26f0a7a07aad1491a2
+Description:  Csech core sound Files. sln16 format
+
+Package: asterisk-core-sounds-cs-ulaw-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-cs-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 12390400
+Filename: asterisk-core-sounds-cs-ulaw-ladislav_0.1.1-r1_all.ipk
+Size: 7809225
+SHA256sum: b06d10e5e15223f59fa8e5b382ab1b806274ea8bc4517c36e3cce8d3f7c4a13a
+Description:  Csech core sound Files. ulaw format
+
+Package: asterisk-core-sounds-cs-wav-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-cs-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 24422400
+Filename: asterisk-core-sounds-cs-wav-ladislav_0.1.1-r1_all.ipk
+Size: 14877388
+SHA256sum: e4c6a5854b27a527aa938628d8ae1a6cf42c19ed66910f6b7a1b048588a827d3
+Description:  Csech core sound Files. wav format
+
+Package: asterisk-core-sounds-en-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9912320
+Filename: asterisk-core-sounds-en-alaw-digium_1.0.1-r1_all.ipk
+Size: 7688232
+SHA256sum: 022e1befe1ca8da9da24097b88932da847d171184ca78ddfb29ae8b7fa8ba2cf
+Description:  en core sound Files. alaw format
+
+Package: asterisk-core-sounds-en-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9912320
+Filename: asterisk-core-sounds-en-g722-digium_1.0.1-r1_all.ipk
+Size: 8364482
+SHA256sum: 50f9aea8ad044945e61ce4868ffe081330f8d73e807d4afde0c47ea76ba2da9f
+Description:  en core sound Files. g722 format
+
+Package: asterisk-core-sounds-en-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1546240
+Filename: asterisk-core-sounds-en-g729-digium_1.0.1-r1_all.ipk
+Size: 1202914
+SHA256sum: 48dd82cf87f75a1dd03eda72eff8d22c96887e448f08aed4873af0ba2b0d7486
+Description:  en core sound Files. g729 format
+
+Package: asterisk-core-sounds-en-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2324480
+Filename: asterisk-core-sounds-en-gsm-digium_1.0.1-r1_all.ipk
+Size: 1906832
+SHA256sum: 4d3f3a311ce0154d01d67b9cff63e1b20433be4017418021f6c1f6aff19755f6
+Description:  en core sound Files. gsm format
+
+Package: asterisk-core-sounds-en-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 7485440
+Filename: asterisk-core-sounds-en-siren14-digium_1.0.1-r1_all.ipk
+Size: 7107293
+SHA256sum: 2eab575250bbd4d4c1b31c143e4d0c8734b9f1b73ae3cf573b8d68394c21b637
+Description:  en core sound Files. siren14 format
+
+Package: asterisk-core-sounds-en-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5109760
+Filename: asterisk-core-sounds-en-siren7-digium_1.0.1-r1_all.ipk
+Size: 4693865
+SHA256sum: 290c1c01e42b9fcf743c88caf4674d173a01926244a433e4e5c3e1befa29e5a3
+Description:  en core sound Files. siren7 format
+
+Package: asterisk-core-sounds-en-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 38553600
+Filename: asterisk-core-sounds-en-sln16-digium_1.0.1-r1_all.ipk
+Size: 32120649
+SHA256sum: 67189595b64b9732d204e27e2400017afbece6acd9f2de4b9744a54ef5dffd8f
+Description:  en core sound Files. sln16 format
+
+Package: asterisk-core-sounds-en-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9912320
+Filename: asterisk-core-sounds-en-ulaw-digium_1.0.1-r1_all.ipk
+Size: 7929284
+SHA256sum: f21a6c1ea38077e917ac7ec40375d0a1cc6fed6eabdb4230cebf7f7dd1e923a9
+Description:  en core sound Files. ulaw format
+
+Package: asterisk-core-sounds-en-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 19476480
+Filename: asterisk-core-sounds-en-wav-digium_1.0.1-r1_all.ipk
+Size: 15661982
+SHA256sum: 19975a06356a0ee9c0090a26812d8bdb647f05ab68fd352f6b3268ea830cfdb3
+Description:  en core sound Files. wav format
+
+Package: asterisk-core-sounds-en_AU-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_AU-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 6707200
+Filename: asterisk-core-sounds-en_AU-alaw-digium_1.0.1-r1_all.ipk
+Size: 4946524
+SHA256sum: 73d4785736d4024e81354e12ec72b13c9c2185efb994a9f7c3f2b90acab67d49
+Description:  en_AU core sound Files. alaw format
+
+Package: asterisk-core-sounds-en_AU-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_AU-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 6707200
+Filename: asterisk-core-sounds-en_AU-g722-digium_1.0.1-r1_all.ipk
+Size: 5538322
+SHA256sum: 2df7bc6f64b91e2c85cb33df05585abceeb9628d76de71f36248b3ac8b117ca7
+Description:  en_AU core sound Files. g722 format
+
+Package: asterisk-core-sounds-en_AU-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_AU-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1095680
+Filename: asterisk-core-sounds-en_AU-g729-digium_1.0.1-r1_all.ipk
+Size: 811230
+SHA256sum: 2f8a0147e7c5154991a1a89a7fb96a66f84e10e39fbcafc77dc3223a1b8315f4
+Description:  en_AU core sound Files. g729 format
+
+Package: asterisk-core-sounds-en_AU-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_AU-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1617920
+Filename: asterisk-core-sounds-en_AU-gsm-digium_1.0.1-r1_all.ipk
+Size: 1266919
+SHA256sum: 939221a0e94bd2aaeee41b2c3a90b9751e4958f6a8a994c48ccfcb18977f4273
+Description:  en_AU core sound Files. gsm format
+
+Package: asterisk-core-sounds-en_AU-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_AU-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5109760
+Filename: asterisk-core-sounds-en_AU-siren14-digium_1.0.1-r1_all.ipk
+Size: 4806595
+SHA256sum: a0c73e5a16c6f38979df2b8a6fa5beabfe7f6baf5b7dd6ed3dace841a034bf7a
+Description:  en_AU core sound Files. siren14 format
+
+Package: asterisk-core-sounds-en_AU-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_AU-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3491840
+Filename: asterisk-core-sounds-en_AU-siren7-digium_1.0.1-r1_all.ipk
+Size: 3199757
+SHA256sum: 911552dd4df3ca9a94f065f091e2048fbf8ce257f9ab5f99eef15db8264c996a
+Description:  en_AU core sound Files. siren7 format
+
+Package: asterisk-core-sounds-en_AU-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_AU-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 25937920
+Filename: asterisk-core-sounds-en_AU-sln16-digium_1.0.1-r1_all.ipk
+Size: 19353399
+SHA256sum: 75de7c0a38b97849f8fec32ef9fa17664fc18943c6e893ffd58e0aa1cd3fd4c4
+Description:  en_AU core sound Files. sln16 format
+
+Package: asterisk-core-sounds-en_AU-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_AU-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 6707200
+Filename: asterisk-core-sounds-en_AU-ulaw-digium_1.0.1-r1_all.ipk
+Size: 5175036
+SHA256sum: abb59a493de0b80f26e5eebbf302191da4128565ae022dfc730599d000e46c75
+Description:  en_AU core sound Files. ulaw format
+
+Package: asterisk-core-sounds-en_AU-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_AU-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 13137920
+Filename: asterisk-core-sounds-en_AU-wav-digium_1.0.1-r1_all.ipk
+Size: 9664527
+SHA256sum: dff94f2f17467a8d723c8cd1a76dfcfa4f46f5ce1a66d75dedfc259f10375587
+Description:  en_AU core sound Files. wav format
+
+Package: asterisk-core-sounds-en_GB-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_GB-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9564160
+Filename: asterisk-core-sounds-en_GB-alaw-digium_1.0.1-r1_all.ipk
+Size: 7020455
+SHA256sum: 7b9f7aa22c1d719df4217a2d264ff2e93d6bf7b1a8709607eea56570510e95bc
+Description:  en_GB core sound Files. alaw format
+
+Package: asterisk-core-sounds-en_GB-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_GB-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9564160
+Filename: asterisk-core-sounds-en_GB-g722-digium_1.0.1-r1_all.ipk
+Size: 7971512
+SHA256sum: 4ab2a076a90b0f560a523c7670ad719132ee18bc3a7708e1741327ccf4855b39
+Description:  en_GB core sound Files. g722 format
+
+Package: asterisk-core-sounds-en_GB-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_GB-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1505280
+Filename: asterisk-core-sounds-en_GB-g729-digium_1.0.1-r1_all.ipk
+Size: 1163247
+SHA256sum: b7f85ac0a1bac1f2b0ddc00d105ccd5ad365b452c46449bdeff07991792df656
+Description:  en_GB core sound Files. g729 format
+
+Package: asterisk-core-sounds-en_GB-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_GB-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2263040
+Filename: asterisk-core-sounds-en_GB-gsm-digium_1.0.1-r1_all.ipk
+Size: 1829782
+SHA256sum: d02e499b55c8b7eba273d4eece704ad3ca259cc6e37a7224f87c03ded46420e7
+Description:  en_GB core sound Files. gsm format
+
+Package: asterisk-core-sounds-en_GB-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_GB-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 7239680
+Filename: asterisk-core-sounds-en_GB-siren14-digium_1.0.1-r1_all.ipk
+Size: 6893673
+SHA256sum: 2497269603456d5a9cf080c2eaf3fdb8536f8f86ac7aef79e3a816937f161a5c
+Description:  en_GB core sound Files. siren14 format
+
+Package: asterisk-core-sounds-en_GB-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_GB-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 4945920
+Filename: asterisk-core-sounds-en_GB-siren7-digium_1.0.1-r1_all.ipk
+Size: 4580954
+SHA256sum: ec596a66b712256df3408b0f4565a3b2f01bc2f53d5264dc2d8bb56f8f6410f7
+Description:  en_GB core sound Files. siren7 format
+
+Package: asterisk-core-sounds-en_GB-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_GB-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 37191680
+Filename: asterisk-core-sounds-en_GB-sln16-digium_1.0.1-r1_all.ipk
+Size: 28990638
+SHA256sum: 71c2e562dd15efb3cb7be7b2dc6655695737b0fb8cb9fd3bba97f10aa2d033a2
+Description:  en_GB core sound Files. sln16 format
+
+Package: asterisk-core-sounds-en_GB-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_GB-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9564160
+Filename: asterisk-core-sounds-en_GB-ulaw-digium_1.0.1-r1_all.ipk
+Size: 7405835
+SHA256sum: b96939e6517e183827af463a73d2235d75467a40beabea4873171998a034dbe4
+Description:  en_GB core sound Files. ulaw format
+
+Package: asterisk-core-sounds-en_GB-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_GB-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 18800640
+Filename: asterisk-core-sounds-en_GB-wav-digium_1.0.1-r1_all.ipk
+Size: 14272863
+SHA256sum: f3a1d28bdc4f10453137f0aeead84fda84d2bc5dc84a4bd04f0bbce90de49c0d
+Description:  en_GB core sound Files. wav format
+
+Package: asterisk-core-sounds-en_NZ-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_NZ-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8458240
+Filename: asterisk-core-sounds-en_NZ-alaw-digium_1.0.1-r1_all.ipk
+Size: 6097642
+SHA256sum: 3a63222431585ef1bb7d4ebd177b5ef1a164d5ffee62a6c7311e35065092c7d9
+Description:  en_NZ core sound Files. alaw format
+
+Package: asterisk-core-sounds-en_NZ-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_NZ-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8458240
+Filename: asterisk-core-sounds-en_NZ-g722-digium_1.0.1-r1_all.ipk
+Size: 7011077
+SHA256sum: 5556da9f2bb11affdcd51b221f9538f13132e61e0e21dbaf066f283cecd9e34e
+Description:  en_NZ core sound Files. g722 format
+
+Package: asterisk-core-sounds-en_NZ-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_NZ-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1372160
+Filename: asterisk-core-sounds-en_NZ-g729-digium_1.0.1-r1_all.ipk
+Size: 1023578
+SHA256sum: 7f9388eda7aeb73502b67914142e0a003591a49589fb7882f32cd2cec74f6ee1
+Description:  en_NZ core sound Files. g729 format
+
+Package: asterisk-core-sounds-en_NZ-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_NZ-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2037760
+Filename: asterisk-core-sounds-en_NZ-gsm-digium_1.0.1-r1_all.ipk
+Size: 1600216
+SHA256sum: 8401ce9dd971a7219377e395d7e5e48d0a4aea59a95622dfd694d22769774fe4
+Description:  en_NZ core sound Files. gsm format
+
+Package: asterisk-core-sounds-en_NZ-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_NZ-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 6400000
+Filename: asterisk-core-sounds-en_NZ-siren14-digium_1.0.1-r1_all.ipk
+Size: 6055768
+SHA256sum: 1d04844c31d11d6bcc7add26f2a2b5548aa3cd4046ce0b0615172fbf2f36ce0d
+Description:  en_NZ core sound Files. siren14 format
+
+Package: asterisk-core-sounds-en_NZ-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_NZ-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 4382720
+Filename: asterisk-core-sounds-en_NZ-siren7-digium_1.0.1-r1_all.ipk
+Size: 4015878
+SHA256sum: 3d56a19522cea1ee649404696eba9bdef40e015cf9bf130dc041120f88f879de
+Description:  en_NZ core sound Files. siren7 format
+
+Package: asterisk-core-sounds-en_NZ-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_NZ-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 32778240
+Filename: asterisk-core-sounds-en_NZ-sln16-digium_1.0.1-r1_all.ipk
+Size: 25001537
+SHA256sum: 082a5f81bdb3cb9032b53f732f481d4a7f89a8c104ee9fa56e60da7c8aef4753
+Description:  en_NZ core sound Files. sln16 format
+
+Package: asterisk-core-sounds-en_NZ-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_NZ-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8458240
+Filename: asterisk-core-sounds-en_NZ-ulaw-digium_1.0.1-r1_all.ipk
+Size: 6384323
+SHA256sum: d3236a0fdb768563a7ffe6bb68d462928815ca01400d1e088a7a9da82ff0244a
+Description:  en_NZ core sound Files. ulaw format
+
+Package: asterisk-core-sounds-en_NZ-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-en_NZ-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 16588800
+Filename: asterisk-core-sounds-en_NZ-wav-digium_1.0.1-r1_all.ipk
+Size: 12255822
+SHA256sum: 37f768ac2ff32df479da5d181802eacc8df6be4adae42ed12695e021eea86098
+Description:  en_NZ core sound Files. wav format
+
+Package: asterisk-core-sounds-es-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-es-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 11622400
+Filename: asterisk-core-sounds-es-alaw-digium_1.0.1-r1_all.ipk
+Size: 9553522
+SHA256sum: 9415a3f6eef64034a7e0ebfaed04ff42f34d52e08d663ac40d98f8d952b58ce7
+Description:  es core sound Files. alaw format
+
+Package: asterisk-core-sounds-es-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-es-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 11622400
+Filename: asterisk-core-sounds-es-g722-digium_1.0.1-r1_all.ipk
+Size: 9963072
+SHA256sum: 0ba0f3b4defcfb8a5527683d90299abcba35b3ae09d48db6ef0675c14788c133
+Description:  es core sound Files. g722 format
+
+Package: asterisk-core-sounds-es-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-es-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1730560
+Filename: asterisk-core-sounds-es-g729-digium_1.0.1-r1_all.ipk
+Size: 1422948
+SHA256sum: 74a2f2bb5b0352642e61cc015b588c8776896856d60c22a1d5d8de73742478e3
+Description:  es core sound Files. g729 format
+
+Package: asterisk-core-sounds-es-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-es-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2652160
+Filename: asterisk-core-sounds-es-gsm-digium_1.0.1-r1_all.ipk
+Size: 2281690
+SHA256sum: b26e4c47872acbc36c6516a82ec2ed4c5c83f2686d103eb63bea053284ad11fb
+Description:  es core sound Files. gsm format
+
+Package: asterisk-core-sounds-es-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-es-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8775680
+Filename: asterisk-core-sounds-es-siren14-digium_1.0.1-r1_all.ipk
+Size: 8430695
+SHA256sum: 6c54123c6e9dfd0699def16c8fbf56336b9520aafab9052be4ec72f7b89799e1
+Description:  es core sound Files. siren14 format
+
+Package: asterisk-core-sounds-es-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-es-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5949440
+Filename: asterisk-core-sounds-es-siren7-digium_1.0.1-r1_all.ipk
+Size: 5571276
+SHA256sum: 1eccecfa866e60435c3c88f137e07df28a560a159ae352ea83ec794fbef4f4c4
+Description:  es core sound Files. siren7 format
+
+Package: asterisk-core-sounds-es-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-es-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 45527040
+Filename: asterisk-core-sounds-es-sln16-digium_1.0.1-r1_all.ipk
+Size: 39341209
+SHA256sum: 70d397dee13468b92a89650eed87237dde4f80c8bfa4f94e62382eb1d2336004
+Description:  es core sound Files. sln16 format
+
+Package: asterisk-core-sounds-es-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-es-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 11622400
+Filename: asterisk-core-sounds-es-ulaw-digium_1.0.1-r1_all.ipk
+Size: 9769101
+SHA256sum: acb9d14a12b32879e5598dc1dd0c0d3b00cfaeaefe15b0bb3fae3bd1c8bf026c
+Description:  es core sound Files. ulaw format
+
+Package: asterisk-core-sounds-es-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-es-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 22947840
+Filename: asterisk-core-sounds-es-wav-digium_1.0.1-r1_all.ipk
+Size: 19370166
+SHA256sum: b16fadfcf986b3e26ab27f703d424c452295aaa75330e9891297de0615d6894f
+Description:  es core sound Files. wav format
+
+Package: asterisk-core-sounds-fr-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-fr-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9871360
+Filename: asterisk-core-sounds-fr-alaw-digium_1.0.1-r1_all.ipk
+Size: 7690375
+SHA256sum: 2de446618cbc2d285013a09bbd81e6e55cae305e113a214c589e639b0b283d00
+Description:  fr core sound Files. alaw format
+
+Package: asterisk-core-sounds-fr-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-fr-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9871360
+Filename: asterisk-core-sounds-fr-g722-digium_1.0.1-r1_all.ipk
+Size: 8327622
+SHA256sum: 6155abe0c768fd2e5bee5d3c9ecb5eb7805263a50e4091e08ef3400a6acdd193
+Description:  fr core sound Files. g722 format
+
+Package: asterisk-core-sounds-fr-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-fr-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1536000
+Filename: asterisk-core-sounds-fr-g729-digium_1.0.1-r1_all.ipk
+Size: 1200047
+SHA256sum: d17445334853eb1d4681abd645a9d04b0b34e225f78b40956504c506787e794a
+Description:  fr core sound Files. g729 format
+
+Package: asterisk-core-sounds-fr-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-fr-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2324480
+Filename: asterisk-core-sounds-fr-gsm-digium_1.0.1-r1_all.ipk
+Size: 1901291
+SHA256sum: 29b5e382519929dc0137c26f5c043267a38fc112e32020a28ea2b378be309b9c
+Description:  fr core sound Files. gsm format
+
+Package: asterisk-core-sounds-fr-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-fr-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 7464960
+Filename: asterisk-core-sounds-fr-siren14-digium_1.0.1-r1_all.ipk
+Size: 7106878
+SHA256sum: 9c59a97ede3ef27955c51cf764101a35ad3e462787bedd7d64bf8f3f17469387
+Description:  fr core sound Files. siren14 format
+
+Package: asterisk-core-sounds-fr-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-fr-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5089280
+Filename: asterisk-core-sounds-fr-siren7-digium_1.0.1-r1_all.ipk
+Size: 4676824
+SHA256sum: 67dea002fa35fa469b47a4c8a270590f8bf125bf75a8b344bd1066aabd515c6d
+Description:  fr core sound Files. siren7 format
+
+Package: asterisk-core-sounds-fr-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-fr-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 38410240
+Filename: asterisk-core-sounds-fr-sln16-digium_1.0.1-r1_all.ipk
+Size: 31899420
+SHA256sum: cc188fd3461d9339f59459d19e0deafa2e0f6d1a3a217abb5e333cb74a18b4f6
+Description:  fr core sound Files. sln16 format
+
+Package: asterisk-core-sounds-fr-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-fr-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9871360
+Filename: asterisk-core-sounds-fr-ulaw-digium_1.0.1-r1_all.ipk
+Size: 7953754
+SHA256sum: f7498fce896c2d03538d032e8e5f856eef6170da67b3363b6bf0fe07546b47d9
+Description:  fr core sound Files. ulaw format
+
+Package: asterisk-core-sounds-fr-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-fr-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 19394560
+Filename: asterisk-core-sounds-fr-wav-digium_1.0.1-r1_all.ipk
+Size: 15639895
+SHA256sum: 6674c6d4caa3b93a3e4390356dd3a7a628cb6dec2af2c675e2c771c383a70361
+Description:  fr core sound Files. wav format
+
+Package: asterisk-core-sounds-it-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-it-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9154560
+Filename: asterisk-core-sounds-it-alaw-digium_1.0.1-r1_all.ipk
+Size: 7520549
+SHA256sum: 96183717ffba27a1301efb711661572c14d480819941df7938ee93f9b6648ebf
+Description:  it core sound Files. alaw format
+
+Package: asterisk-core-sounds-it-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-it-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9154560
+Filename: asterisk-core-sounds-it-g722-digium_1.0.1-r1_all.ipk
+Size: 7776192
+SHA256sum: de5208e59cc06ad381af570c59ae6f1e632152ba6098dacbb34cdb0e58764815
+Description:  it core sound Files. g722 format
+
+Package: asterisk-core-sounds-it-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-it-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1474560
+Filename: asterisk-core-sounds-it-g729-digium_1.0.1-r1_all.ipk
+Size: 1110036
+SHA256sum: 058253a3327ca2621a2412f06e2173cece38fb162290a65c3900195628b84e6c
+Description:  it core sound Files. g729 format
+
+Package: asterisk-core-sounds-it-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-it-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2201600
+Filename: asterisk-core-sounds-it-gsm-digium_1.0.1-r1_all.ipk
+Size: 1770597
+SHA256sum: 609d96e446137e62d3fd3c97f22cead93d9aa84cb77070afe4e61068e142f539
+Description:  it core sound Files. gsm format
+
+Package: asterisk-core-sounds-it-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-it-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 6932480
+Filename: asterisk-core-sounds-it-siren14-digium_1.0.1-r1_all.ipk
+Size: 6559115
+SHA256sum: 6a164a1f69ff98ea86d0287c233e5eb1d6bda0f49048354b50d6bf65547074d8
+Description:  it core sound Files. siren14 format
+
+Package: asterisk-core-sounds-it-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-it-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 4741120
+Filename: asterisk-core-sounds-it-siren7-digium_1.0.1-r1_all.ipk
+Size: 4344927
+SHA256sum: fd9b00ea36e73910d16153d4d93b69a593acdedfe954704f5a2c6d47e409ca5e
+Description:  it core sound Files. siren7 format
+
+Package: asterisk-core-sounds-it-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-it-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 35461120
+Filename: asterisk-core-sounds-it-sln16-digium_1.0.1-r1_all.ipk
+Size: 30482134
+SHA256sum: 2deedb38dc9ce1bbd1d5891a857acf9953adede21843b93e93d5db0b2f03a9aa
+Description:  it core sound Files. sln16 format
+
+Package: asterisk-core-sounds-it-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-it-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9154560
+Filename: asterisk-core-sounds-it-ulaw-digium_1.0.1-r1_all.ipk
+Size: 7701837
+SHA256sum: a3b7e0a1f6279b11f123f7f2e983cd1cee53da8b37793f6a4c05c79c66090c67
+Description:  it core sound Files. ulaw format
+
+Package: asterisk-core-sounds-it-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-it-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 17940480
+Filename: asterisk-core-sounds-it-wav-digium_1.0.1-r1_all.ipk
+Size: 14958168
+SHA256sum: 18a46c000979c399c6b16207b8027f23006f2a7fbdbe141b6affc31812f350b7
+Description:  it core sound Files. wav format
+
+Package: asterisk-core-sounds-ja-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ja-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9943040
+Filename: asterisk-core-sounds-ja-alaw-digium_1.0.1-r1_all.ipk
+Size: 7455330
+SHA256sum: 5d9508e160787690cd5f3adb9da13200204245ea53d94e65b2946cca433b896b
+Description:  ja core sound Files. alaw format
+
+Package: asterisk-core-sounds-ja-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ja-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9943040
+Filename: asterisk-core-sounds-ja-g722-digium_1.0.1-r1_all.ipk
+Size: 8336909
+SHA256sum: 0519137308d4b79462ae68c2eec082ea30abcd5b450c9eeeebf1421e45265da0
+Description:  ja core sound Files. g722 format
+
+Package: asterisk-core-sounds-ja-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ja-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1576960
+Filename: asterisk-core-sounds-ja-g729-digium_1.0.1-r1_all.ipk
+Size: 1204209
+SHA256sum: 372eeb0e86aa55aaeb3dc4ba2178fb903d20d8fa25ca03efbd8675ed43b05597
+Description:  ja core sound Files. g729 format
+
+Package: asterisk-core-sounds-ja-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ja-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2365440
+Filename: asterisk-core-sounds-ja-gsm-digium_1.0.1-r1_all.ipk
+Size: 1909480
+SHA256sum: 491ec5e205ba50d095f6d42e3c3056316ef1c7e3b7246c9953ac09ef3f6eb0b8
+Description:  ja core sound Files. gsm format
+
+Package: asterisk-core-sounds-ja-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ja-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 7536640
+Filename: asterisk-core-sounds-ja-siren14-digium_1.0.1-r1_all.ipk
+Size: 7056902
+SHA256sum: 668994dde38e4a5876ebd55c047e4bfd9ec96583478dbb706909e6a0e533d42e
+Description:  ja core sound Files. siren14 format
+
+Package: asterisk-core-sounds-ja-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ja-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5140480
+Filename: asterisk-core-sounds-ja-siren7-digium_1.0.1-r1_all.ipk
+Size: 4546378
+SHA256sum: dba3c3f48b8614642fe05e3a840585c6bf85e00e550594e787bd342c3b58bb83
+Description:  ja core sound Files. siren7 format
+
+Package: asterisk-core-sounds-ja-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ja-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 38604800
+Filename: asterisk-core-sounds-ja-sln16-digium_1.0.1-r1_all.ipk
+Size: 31140285
+SHA256sum: c7d45c189fe8c0d53b287294df3c4a50a73d37297708640c81a643d4610ba5c6
+Description:  ja core sound Files. sln16 format
+
+Package: asterisk-core-sounds-ja-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ja-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9943040
+Filename: asterisk-core-sounds-ja-ulaw-digium_1.0.1-r1_all.ipk
+Size: 7842133
+SHA256sum: c3a4cb36f22583934e00c7c2c261c5e3058cca3962b334569c95560f45907737
+Description:  ja core sound Files. ulaw format
+
+Package: asterisk-core-sounds-ja-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ja-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 19527680
+Filename: asterisk-core-sounds-ja-wav-digium_1.0.1-r1_all.ipk
+Size: 15570341
+SHA256sum: efa7317166cefc8cb14f0a497e819d7f731aff51ad56f3aa318e6c44c9433e34
+Description:  ja core sound Files. wav format
+
+Package: asterisk-core-sounds-ru-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ru-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9502720
+Filename: asterisk-core-sounds-ru-alaw-digium_1.0.1-r1_all.ipk
+Size: 7765184
+SHA256sum: 49afe7dafbed47093520e423b586ab58e94776f2ec03677b6d5ac5e3dcb8d235
+Description:  ru core sound Files. alaw format
+
+Package: asterisk-core-sounds-ru-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ru-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9502720
+Filename: asterisk-core-sounds-ru-g722-digium_1.0.1-r1_all.ipk
+Size: 8130745
+SHA256sum: 3f9fd4cd5c6433c70fd769f2544c797b48ed7082683be3a47df4c7a1eca4c6d0
+Description:  ru core sound Files. g722 format
+
+Package: asterisk-core-sounds-ru-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ru-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1505280
+Filename: asterisk-core-sounds-ru-g729-digium_1.0.1-r1_all.ipk
+Size: 1155576
+SHA256sum: 8eea28798d902e14d762fdfc0b49095c44e224a770367804203857253e26d640
+Description:  ru core sound Files. g729 format
+
+Package: asterisk-core-sounds-ru-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ru-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2252800
+Filename: asterisk-core-sounds-ru-gsm-digium_1.0.1-r1_all.ipk
+Size: 1849191
+SHA256sum: 777464bfe235a8f9d557d24cf0399797a70a084dc12a52c4f28cf853885ca887
+Description:  ru core sound Files. gsm format
+
+Package: asterisk-core-sounds-ru-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ru-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 7188480
+Filename: asterisk-core-sounds-ru-siren14-digium_1.0.1-r1_all.ipk
+Size: 6829561
+SHA256sum: 87560573100110d0c4c885a514be58cea092fdf213607df3a1369a3d384c79c1
+Description:  ru core sound Files. siren14 format
+
+Package: asterisk-core-sounds-ru-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ru-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 4915200
+Filename: asterisk-core-sounds-ru-siren7-digium_1.0.1-r1_all.ipk
+Size: 4529636
+SHA256sum: 0baa2a6ca9a1d9fedf37515f64df995accb1bb2d00b1244aa6cda8cf0637a888
+Description:  ru core sound Files. siren7 format
+
+Package: asterisk-core-sounds-ru-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ru-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 36925440
+Filename: asterisk-core-sounds-ru-sln16-digium_1.0.1-r1_all.ipk
+Size: 31388834
+SHA256sum: 2691e46c1a907bb50d2f1efc0eb16ec27e69146968473640a1c7df93945dc56c
+Description:  ru core sound Files. sln16 format
+
+Package: asterisk-core-sounds-ru-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ru-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9502720
+Filename: asterisk-core-sounds-ru-ulaw-digium_1.0.1-r1_all.ipk
+Size: 8011080
+SHA256sum: 291543154b6626340fcfb7976ba1bd9325c1da4aeeaac22ca7272177523ec6a8
+Description:  ru core sound Files. ulaw format
+
+Package: asterisk-core-sounds-ru-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-ru-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 18667520
+Filename: asterisk-core-sounds-ru-wav-digium_1.0.1-r1_all.ipk
+Size: 15432781
+SHA256sum: a69b188d0dcbbeedc840af656b77e38ed88571b6943574e9617d6cb1b34ca450
+Description:  ru core sound Files. wav format
+
+Package: asterisk-core-sounds-sv-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-sv-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8345600
+Filename: asterisk-core-sounds-sv-alaw-digium_1.0.1-r1_all.ipk
+Size: 5056895
+SHA256sum: bf10ef4b4fb23137b24518608c71a12622903ecae1a82bfd6a4d34475e87fe70
+Description:  sv core sound Files. alaw format
+
+Package: asterisk-core-sounds-sv-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-sv-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8345600
+Filename: asterisk-core-sounds-sv-g722-digium_1.0.1-r1_all.ipk
+Size: 6632016
+SHA256sum: 609d7e6e1e735667b92d3ebbbdadfdd3edcd2cd27870c290da9a8e8e4e44ad56
+Description:  sv core sound Files. g722 format
+
+Package: asterisk-core-sounds-sv-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-sv-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1310720
+Filename: asterisk-core-sounds-sv-g729-digium_1.0.1-r1_all.ipk
+Size: 1006666
+SHA256sum: df8dce1f376440e42f955984b236adfdfbe996711fc384b2b2c94a0204f8fa6f
+Description:  sv core sound Files. g729 format
+
+Package: asterisk-core-sounds-sv-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-sv-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1976320
+Filename: asterisk-core-sounds-sv-gsm-digium_1.0.1-r1_all.ipk
+Size: 1530566
+SHA256sum: a5c2206774600795265bff9ed4afe69db79da52f86dbe9bf2bd723396c4ddfee
+Description:  sv core sound Files. gsm format
+
+Package: asterisk-core-sounds-sv-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-sv-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 6307840
+Filename: asterisk-core-sounds-sv-siren14-digium_1.0.1-r1_all.ipk
+Size: 5941763
+SHA256sum: 002913872e9163b0acfddb7c9b39ab4f58285f6058c067298ac433b43a756c7c
+Description:  sv core sound Files. siren14 format
+
+Package: asterisk-core-sounds-sv-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-sv-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 4300800
+Filename: asterisk-core-sounds-sv-siren7-digium_1.0.1-r1_all.ipk
+Size: 3961622
+SHA256sum: 42f371402989bfc9cdac43f5b2a100503d256eacb8c021e84dc967e60f0c0127
+Description:  sv core sound Files. siren7 format
+
+Package: asterisk-core-sounds-sv-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-sv-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 32419840
+Filename: asterisk-core-sounds-sv-sln16-digium_1.0.1-r1_all.ipk
+Size: 22959215
+SHA256sum: 8df7afbfdc9781033c3daa4d39dff29be143605924db5672ba9df3d57cc6cf09
+Description:  sv core sound Files. sln16 format
+
+Package: asterisk-core-sounds-sv-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-sv-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8345600
+Filename: asterisk-core-sounds-sv-ulaw-digium_1.0.1-r1_all.ipk
+Size: 5439319
+SHA256sum: f82b4690bbe8a72fed2c612e355edba7b1d4a25db7817a3be7a2d45ae29f1745
+Description:  sv core sound Files. ulaw format
+
+Package: asterisk-core-sounds-sv-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-sv-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 16384000
+Filename: asterisk-core-sounds-sv-wav-digium_1.0.1-r1_all.ipk
+Size: 11284860
+SHA256sum: c4b9b825fdfc2710bc9d107ff83739a96aeaeed1bbe6388d3eae7607c073686d
+Description:  sv core sound Files. wav format
+
+Package: asterisk-core-sounds-voicemail-cs-alaw-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-cs-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3389440
+Filename: asterisk-core-sounds-voicemail-cs-alaw-ladislav_0.1.1-r1_all.ipk
+Size: 2187652
+SHA256sum: 172e644e1224b88acb657cc83a6d6cbe114345c83280b5cc5d32add49ef140b6
+Description:  Csech core sound voicemail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-cs-g722-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-cs-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3389440
+Filename: asterisk-core-sounds-voicemail-cs-g722-ladislav_0.1.1-r1_all.ipk
+Size: 2618095
+SHA256sum: 3e669e807bcf9ab6c4be27fe4eb219d95fa39c01b116ddecdfc17b045d4ab49f
+Description:  Csech core sound voicemail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-cs-g729-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-cs-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 512000
+Filename: asterisk-core-sounds-voicemail-cs-g729-ladislav_0.1.1-r1_all.ipk
+Size: 412528
+SHA256sum: 84fca961894010fc068afcea49cce8261564a6002a7d9b7c8f30b71c99759249
+Description:  Csech core sound voicemail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-cs-gsm-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-cs-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 778240
+Filename: asterisk-core-sounds-voicemail-cs-gsm-ladislav_0.1.1-r1_all.ipk
+Size: 620260
+SHA256sum: a7a250e02ba84a41e1178ec8fb87917cc00bffd23a595a62923917b7db9349c4
+Description:  Csech core sound voicemail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-cs-opus-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-cs-opus
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1187840
+Filename: asterisk-core-sounds-voicemail-cs-opus-ladislav_0.1.1-r1_all.ipk
+Size: 997636
+SHA256sum: 0840b38ba6e2a4ed2892e4fa3d855fe5b7d2c2cdab7614b37ad27c52c2ab7797
+Description:  Csech core sound voicemail Files. opus format
+
+Package: asterisk-core-sounds-voicemail-cs-siren14-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-cs-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2560000
+Filename: asterisk-core-sounds-voicemail-cs-siren14-ladislav_0.1.1-r1_all.ipk
+Size: 2453879
+SHA256sum: e4f656040d1817ea708cd7b37eef605a5afb8ccad83c7d53cd887eb2693cda53
+Description:  Csech core sound voicemail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-cs-siren7-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-cs-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1740800
+Filename: asterisk-core-sounds-voicemail-cs-siren7-ladislav_0.1.1-r1_all.ipk
+Size: 1637288
+SHA256sum: 9d9d68d3b3c3881de60d8d26a8d4e0d15a77cd875ee12fbc3a4af6a1435fe335
+Description:  Csech core sound voicemail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-cs-sln16-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-cs-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 13250560
+Filename: asterisk-core-sounds-voicemail-cs-sln16-ladislav_0.1.1-r1_all.ipk
+Size: 8765374
+SHA256sum: 5fdbe35941da8f5fe56781a7847a81e2151c9583434c90835dbb7ee6259dbf10
+Description:  Csech core sound voicemail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-cs-ulaw-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-cs-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3389440
+Filename: asterisk-core-sounds-voicemail-cs-ulaw-ladislav_0.1.1-r1_all.ipk
+Size: 2332264
+SHA256sum: 0d7322c1b602894034f269935527b7d07a884f157c003cfba0fd4f32fa4a80ca
+Description:  Csech core sound voicemail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-cs-wav-ladislav
+Version: 0.1.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-cs-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 6676480
+Filename: asterisk-core-sounds-voicemail-cs-wav-ladislav_0.1.1-r1_all.ipk
+Size: 4436104
+SHA256sum: c99405af4e98c33474ad31958040c1976f7ff78613bd9837b9848d35f2fb024c
+Description:  Csech core sound voicemail Files. wav format
+
+Package: asterisk-core-sounds-voicemail-en-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2775040
+Filename: asterisk-core-sounds-voicemail-en-alaw-digium_1.0.1-r1_all.ipk
+Size: 2234364
+SHA256sum: 1d769331f82a2af74ecad6a0b92a5a42e37c66d38b5fc72798931ab92f02d9fe
+Description:  en core voice mail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-en-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2775040
+Filename: asterisk-core-sounds-voicemail-en-g722-digium_1.0.1-r1_all.ipk
+Size: 2378259
+SHA256sum: d46db6b8a9c80ed86471d9ec427f84ae018f1b5ae377de6702a0441ef5a045cb
+Description:  en core voice mail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-en-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 430080
+Filename: asterisk-core-sounds-voicemail-en-g729-digium_1.0.1-r1_all.ipk
+Size: 339742
+SHA256sum: 40bcc9de80d9757ef20971fa96bb8febfad2f029d7c84a25bf3905c12c7ff773
+Description:  en core voice mail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-en-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 655360
+Filename: asterisk-core-sounds-voicemail-en-gsm-digium_1.0.1-r1_all.ipk
+Size: 543900
+SHA256sum: 2eb343ed69c0b7cde2fc0e1365337557de8e333a59d8bc0a1630a003da09b622
+Description:  en core voice mail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-en-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2099200
+Filename: asterisk-core-sounds-voicemail-en-siren14-digium_1.0.1-r1_all.ipk
+Size: 2000067
+SHA256sum: cc2bc173eef484f933d6e30ef91cc327c4f8f30c754a28c054630c0589a7f8ef
+Description:  en core voice mail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-en-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1433600
+Filename: asterisk-core-sounds-voicemail-en-siren7-digium_1.0.1-r1_all.ipk
+Size: 1321455
+SHA256sum: d7326ab1db55f766d4cbbd8a2499ea30355cc08e61152894565efcdcbbaf90e1
+Description:  en core voice mail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-en-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 10823680
+Filename: asterisk-core-sounds-voicemail-en-sln16-digium_1.0.1-r1_all.ipk
+Size: 9244111
+SHA256sum: ace9d98a199e3be8c7d1bf52ce27368baaee2c4b883cd393aa188906848b08ac
+Description:  en core voice mail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-en-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2775040
+Filename: asterisk-core-sounds-voicemail-en-ulaw-digium_1.0.1-r1_all.ipk
+Size: 2297326
+SHA256sum: 9dad9c0faf6f576f1ef1bc1c90a60cc2906e0ed84842dae40d4589ea140b29c8
+Description:  en core voice mail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-en-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5468160
+Filename: asterisk-core-sounds-voicemail-en-wav-digium_1.0.1-r1_all.ipk
+Size: 4506593
+SHA256sum: 44b7cfc5002309c70aade3cf92f25ccaae3d252fa5117412930c86af1cefae30
+Description:  en core voice mail Files. wav format
+
+Package: asterisk-core-sounds-voicemail-en_AU-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_AU-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2160640
+Filename: asterisk-core-sounds-voicemail-en_AU-alaw-digium_1.0.1-r1_all.ipk
+Size: 1741454
+SHA256sum: 63542030d71c4493d9ee53aa6d6dd634e5ca721e8a340e249d26fc485e8d1864
+Description:  en_AU core voice mail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-en_AU-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_AU-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2160640
+Filename: asterisk-core-sounds-voicemail-en_AU-g722-digium_1.0.1-r1_all.ipk
+Size: 1837523
+SHA256sum: d981dfa7d5fcf762f430ff3c961fc821e489cf18783bbb1a6da687c0f2947192
+Description:  en_AU core voice mail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-en_AU-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_AU-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 348160
+Filename: asterisk-core-sounds-voicemail-en_AU-g729-digium_1.0.1-r1_all.ipk
+Size: 263969
+SHA256sum: 1acc4165b6f805770d633878acf6e0c114b67944eee5803fd33721b57f9f66e8
+Description:  en_AU core voice mail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-en_AU-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_AU-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 522240
+Filename: asterisk-core-sounds-voicemail-en_AU-gsm-digium_1.0.1-r1_all.ipk
+Size: 419978
+SHA256sum: fc88fb6314a85981e293cc57bf50e319dc2023c648a81596c3a4d1c47b582679
+Description:  en_AU core voice mail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-en_AU-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_AU-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1648640
+Filename: asterisk-core-sounds-voicemail-en_AU-siren14-digium_1.0.1-r1_all.ipk
+Size: 1554657
+SHA256sum: 72a8a43ee31f6a785046aba40832b227e5918424bf10a6df1e5e83f488260901
+Description:  en_AU core voice mail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-en_AU-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_AU-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1126400
+Filename: asterisk-core-sounds-voicemail-en_AU-siren7-digium_1.0.1-r1_all.ipk
+Size: 1034373
+SHA256sum: 7944511d919e714ffeb046f8681e6fe1c6127578535028af211753aa1855abf5
+Description:  en_AU core voice mail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-en_AU-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_AU-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8376320
+Filename: asterisk-core-sounds-voicemail-en_AU-sln16-digium_1.0.1-r1_all.ipk
+Size: 6766652
+SHA256sum: 624f7f96a1388235e2792f9575fa2d047102eb9f445ec96d2bae65a5dbd7e0b8
+Description:  en_AU core voice mail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-en_AU-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_AU-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2160640
+Filename: asterisk-core-sounds-voicemail-en_AU-ulaw-digium_1.0.1-r1_all.ipk
+Size: 1794528
+SHA256sum: b95fedc1c5e67945c7398fe64b9a17252f01f8864c82dcc9c0b53f0746570e6a
+Description:  en_AU core voice mail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-en_AU-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_AU-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 4239360
+Filename: asterisk-core-sounds-voicemail-en_AU-wav-digium_1.0.1-r1_all.ipk
+Size: 3373609
+SHA256sum: a7fb54e8f9b5d8e73a215ede1d0cf72dbe56343fb6c9a7f0b5c635e902e02118
+Description:  en_AU core voice mail Files. wav format
+
+Package: asterisk-core-sounds-voicemail-en_GB-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_GB-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2826240
+Filename: asterisk-core-sounds-voicemail-en_GB-alaw-digium_1.0.1-r1_all.ipk
+Size: 2144229
+SHA256sum: 375bce2c60c6ed37a39bc7856c1e69ff1c64da193e79995a0fdf515d7925a004
+Description:  en_GB core voice mail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-en_GB-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_GB-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2826240
+Filename: asterisk-core-sounds-voicemail-en_GB-g722-digium_1.0.1-r1_all.ipk
+Size: 2388713
+SHA256sum: 51fd54c4aaa6e7663ccbd70d8f0c289195d355b1ecc1b15871d2c8c70d598222
+Description:  en_GB core voice mail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-en_GB-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_GB-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 440320
+Filename: asterisk-core-sounds-voicemail-en_GB-g729-digium_1.0.1-r1_all.ipk
+Size: 345817
+SHA256sum: 2d7bf8314992a3f330241791a627d972cc58e67f8624b74e527093f2721c9643
+Description:  en_GB core voice mail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-en_GB-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_GB-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 665600
+Filename: asterisk-core-sounds-voicemail-en_GB-gsm-digium_1.0.1-r1_all.ipk
+Size: 548195
+SHA256sum: 58d45aeef5c55fc0872b7f0308cf06d74d73769a613d6dd28fe3d1c40617159f
+Description:  en_GB core voice mail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-en_GB-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_GB-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2140160
+Filename: asterisk-core-sounds-voicemail-en_GB-siren14-digium_1.0.1-r1_all.ipk
+Size: 2042268
+SHA256sum: 51b71960508402cbedd4c4091b0ca393736b6fbce60052c6e736b9fce80914f2
+Description:  en_GB core voice mail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-en_GB-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_GB-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1454080
+Filename: asterisk-core-sounds-voicemail-en_GB-siren7-digium_1.0.1-r1_all.ipk
+Size: 1355826
+SHA256sum: 4e020c466bed24630795b72c4d7497f1b48ec5ea14fb08950abba9cd731909e1
+Description:  en_GB core voice mail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-en_GB-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_GB-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 10997760
+Filename: asterisk-core-sounds-voicemail-en_GB-sln16-digium_1.0.1-r1_all.ipk
+Size: 8849194
+SHA256sum: f243e689e0bd89361a248af001d9a58a32f97775ff873012f5d6db60222967bf
+Description:  en_GB core voice mail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-en_GB-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_GB-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2826240
+Filename: asterisk-core-sounds-voicemail-en_GB-ulaw-digium_1.0.1-r1_all.ipk
+Size: 2250850
+SHA256sum: 5f0d0533b5a3894bded2c49cc2a9cee808574bfb6ab819702b56b2de5b4072a2
+Description:  en_GB core voice mail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-en_GB-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_GB-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5550080
+Filename: asterisk-core-sounds-voicemail-en_GB-wav-digium_1.0.1-r1_all.ipk
+Size: 4359808
+SHA256sum: 973c79ee9b00901b6d1e7ed33538fce301cf4cdb738a437a69945ec82cd0999d
+Description:  en_GB core voice mail Files. wav format
+
+Package: asterisk-core-sounds-voicemail-en_NZ-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_NZ-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2406400
+Filename: asterisk-core-sounds-voicemail-en_NZ-alaw-digium_1.0.1-r1_all.ipk
+Size: 1791411
+SHA256sum: f34278fd5758596f742f118172a9850e9da7682606f4546ae2585adbab33d4fd
+Description:  en_NZ core voice mail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-en_NZ-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_NZ-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2406400
+Filename: asterisk-core-sounds-voicemail-en_NZ-g722-digium_1.0.1-r1_all.ipk
+Size: 2019140
+SHA256sum: 7ddd69bade26afd4f52168841cebac4b851bc872fb3688ed70f7ae035080bfee
+Description:  en_NZ core voice mail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-en_NZ-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_NZ-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 389120
+Filename: asterisk-core-sounds-voicemail-en_NZ-g729-digium_1.0.1-r1_all.ipk
+Size: 292762
+SHA256sum: 732e9ff8f262029a1f5b099e4966c4000058a3e1a6725d457773cdf0885c5788
+Description:  en_NZ core voice mail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-en_NZ-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_NZ-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 573440
+Filename: asterisk-core-sounds-voicemail-en_NZ-gsm-digium_1.0.1-r1_all.ipk
+Size: 464748
+SHA256sum: 8596a8b9370096722deb5c839747c06901c86a8d916317defa9e99173b8c46a1
+Description:  en_NZ core voice mail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-en_NZ-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_NZ-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1812480
+Filename: asterisk-core-sounds-voicemail-en_NZ-siren14-digium_1.0.1-r1_all.ipk
+Size: 1726627
+SHA256sum: 3e8901a2bee68d9bbad7b87e1be600f081d0df9d84444a492f2edac9443c2340
+Description:  en_NZ core voice mail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-en_NZ-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_NZ-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1239040
+Filename: asterisk-core-sounds-voicemail-en_NZ-siren7-digium_1.0.1-r1_all.ipk
+Size: 1148036
+SHA256sum: f549ede950674405f36dd176fb60ca7be9f056433e06ee3a1e73dc36ef790591
+Description:  en_NZ core voice mail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-en_NZ-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_NZ-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 9318400
+Filename: asterisk-core-sounds-voicemail-en_NZ-sln16-digium_1.0.1-r1_all.ipk
+Size: 7324997
+SHA256sum: cbb8c66e8bc4d2cb5fdcaa9fe79aee28e3b10abcf0aeb49a7b9005782ab08f0a
+Description:  en_NZ core voice mail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-en_NZ-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_NZ-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2406400
+Filename: asterisk-core-sounds-voicemail-en_NZ-ulaw-digium_1.0.1-r1_all.ipk
+Size: 1875244
+SHA256sum: c9ef09ef1c56aa4984429f407690146b8307bffba957291dd2d346bbc4a96d3d
+Description:  en_NZ core voice mail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-en_NZ-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-en_NZ-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 4710400
+Filename: asterisk-core-sounds-voicemail-en_NZ-wav-digium_1.0.1-r1_all.ipk
+Size: 3572504
+SHA256sum: ba47937926c99ba2977e352abe9cd176377e140fa6d2aa73a1ed7a1158c72415
+Description:  en_NZ core voice mail Files. wav format
+
+Package: asterisk-core-sounds-voicemail-es-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-es-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3665920
+Filename: asterisk-core-sounds-voicemail-es-alaw-digium_1.0.1-r1_all.ipk
+Size: 3211878
+SHA256sum: adbc3a434811d05d2c21df40b5e796b6719c779fa9a3db2f1d25d82b4f29d9e2
+Description:  es core voice mail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-es-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-es-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3665920
+Filename: asterisk-core-sounds-voicemail-es-g722-digium_1.0.1-r1_all.ipk
+Size: 3201745
+SHA256sum: e9d537cacec6278498e7e1dbbeb5ffa9537cd011e22c3f67bb5f0746e4a6c0d3
+Description:  es core voice mail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-es-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-es-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 542720
+Filename: asterisk-core-sounds-voicemail-es-g729-digium_1.0.1-r1_all.ipk
+Size: 451055
+SHA256sum: 670467803dc074e5282e6265b999e698ba6a858b1896f3fe942aa908987da232
+Description:  es core voice mail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-es-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-es-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 839680
+Filename: asterisk-core-sounds-voicemail-es-gsm-digium_1.0.1-r1_all.ipk
+Size: 733069
+SHA256sum: 5afc8e93c6c93365e91b13192dafa6def943b9529e9b1db57f47df4a65d9aacc
+Description:  es core voice mail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-es-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-es-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2764800
+Filename: asterisk-core-sounds-voicemail-es-siren14-digium_1.0.1-r1_all.ipk
+Size: 2669318
+SHA256sum: 130be3bb9e2fec5a4abf3b63b7b265fc615786ce908f5c8520e653cce92c295a
+Description:  es core voice mail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-es-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-es-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1873920
+Filename: asterisk-core-sounds-voicemail-es-siren7-digium_1.0.1-r1_all.ipk
+Size: 1761169
+SHA256sum: a31a1c14e76c86531900e1ab13c2eb38cb814a8c0d51fd04e6b1e1aad978b4c1
+Description:  es core voice mail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-es-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-es-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 14366720
+Filename: asterisk-core-sounds-voicemail-es-sln16-digium_1.0.1-r1_all.ipk
+Size: 13122370
+SHA256sum: 2d5ab2811773a8fd87f41294765de797e63fc3214da0eec69a485e8db13f7a7a
+Description:  es core voice mail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-es-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-es-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3665920
+Filename: asterisk-core-sounds-voicemail-es-ulaw-digium_1.0.1-r1_all.ipk
+Size: 3242842
+SHA256sum: f96fc3659e94058b1a0fce9a782fac15b3114fd77c85164e10fbbf2d72bb58c5
+Description:  es core voice mail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-es-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-es-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 7239680
+Filename: asterisk-core-sounds-voicemail-es-wav-digium_1.0.1-r1_all.ipk
+Size: 6458798
+SHA256sum: 29d4a1a1604eddc9f0b6fad7f341333238d3974d9268d2ec6f25c8f6ae2a38c5
+Description:  es core voice mail Files. wav format
+
+Package: asterisk-core-sounds-voicemail-fr-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-fr-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3061760
+Filename: asterisk-core-sounds-voicemail-fr-alaw-digium_1.0.1-r1_all.ipk
+Size: 2520503
+SHA256sum: e31a469aa9ec86408a762cdaa15287453696cd8e53cc4ffc5d0857b7cac11508
+Description:  fr core voice mail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-fr-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-fr-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3061760
+Filename: asterisk-core-sounds-voicemail-fr-g722-digium_1.0.1-r1_all.ipk
+Size: 2634836
+SHA256sum: ec19f8a83fc494e4ab8997e19e73d2a8d8b11ca6a8d0854fa325a94fe43a786e
+Description:  fr core voice mail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-fr-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-fr-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 460800
+Filename: asterisk-core-sounds-voicemail-fr-g729-digium_1.0.1-r1_all.ipk
+Size: 375089
+SHA256sum: 46e8cb9a4229745f796234c262ca34e79904995f08088425e41884632232e9ae
+Description:  fr core voice mail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-fr-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-fr-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 706560
+Filename: asterisk-core-sounds-voicemail-fr-gsm-digium_1.0.1-r1_all.ipk
+Size: 603385
+SHA256sum: f8fc53263a544adbbb3db7093f6a0cce02a1c37dcd30731c6569f78d4ca12c92
+Description:  fr core voice mail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-fr-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-fr-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2314240
+Filename: asterisk-core-sounds-voicemail-fr-siren14-digium_1.0.1-r1_all.ipk
+Size: 2217529
+SHA256sum: 5c0b1542003f1ce1c1cba59171f886c19dc45dfef015f37b6d036e1cae1e7d28
+Description:  fr core voice mail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-fr-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-fr-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1566720
+Filename: asterisk-core-sounds-voicemail-fr-siren7-digium_1.0.1-r1_all.ipk
+Size: 1458390
+SHA256sum: 4729b89ee7f56b61beecd241c48d09a6189163d4422bcc294b7f6e780c626b1a
+Description:  fr core voice mail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-fr-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-fr-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 11939840
+Filename: asterisk-core-sounds-voicemail-fr-sln16-digium_1.0.1-r1_all.ipk
+Size: 10389176
+SHA256sum: c9c449bb48e5f7faa8803a1610b46c0fa6eac2de8a0c3117234d863060b9f2e7
+Description:  fr core voice mail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-fr-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-fr-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3061760
+Filename: asterisk-core-sounds-voicemail-fr-ulaw-digium_1.0.1-r1_all.ipk
+Size: 2590831
+SHA256sum: af49367d06614c0fcb90aaee570f9438b93165809e0e47f5193cf4336a9f1922
+Description:  fr core voice mail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-fr-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-fr-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 6021120
+Filename: asterisk-core-sounds-voicemail-fr-wav-digium_1.0.1-r1_all.ipk
+Size: 5078594
+SHA256sum: 0b1e363cc1e6fcd4e4b281810409542e1a83879d4f0d8cdcdf0134384e45ccb0
+Description:  fr core voice mail Files. wav format
+
+Package: asterisk-core-sounds-voicemail-it-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-it-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2764800
+Filename: asterisk-core-sounds-voicemail-it-alaw-digium_1.0.1-r1_all.ipk
+Size: 2409409
+SHA256sum: 6dacd149e440e74e3349d3ef6b0003d4339b682bfef92e95106749c4107a62f8
+Description:  it core voice mail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-it-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-it-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2764800
+Filename: asterisk-core-sounds-voicemail-it-g722-digium_1.0.1-r1_all.ipk
+Size: 2400230
+SHA256sum: f6795a46779dc36da1543376ef25dd2a3eb9384a97fae5a7503c3ac0055faf10
+Description:  it core voice mail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-it-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-it-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 430080
+Filename: asterisk-core-sounds-voicemail-it-g729-digium_1.0.1-r1_all.ipk
+Size: 338381
+SHA256sum: de79f336ad9a589776e9f6049a8074f293215b0cfa686ec03694c54c213f9c30
+Description:  it core voice mail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-it-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-it-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 645120
+Filename: asterisk-core-sounds-voicemail-it-gsm-digium_1.0.1-r1_all.ipk
+Size: 547208
+SHA256sum: 192c5f36ee5621d80fd47e5ac56ad3625d867023f77b05b0a596eb7714470db4
+Description:  it core voice mail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-it-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-it-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2088960
+Filename: asterisk-core-sounds-voicemail-it-siren14-digium_1.0.1-r1_all.ipk
+Size: 1995730
+SHA256sum: 949b8df5bcd40a9deda89711014f6092cc449c1d5bdcfd4cac943444bab2af75
+Description:  it core voice mail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-it-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-it-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1423360
+Filename: asterisk-core-sounds-voicemail-it-siren7-digium_1.0.1-r1_all.ipk
+Size: 1321134
+SHA256sum: 29b0abe9c79de6fff5f2bc52a0dd4deb6c21311d05743fc98d29c3be4387e501
+Description:  it core voice mail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-it-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-it-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 10752000
+Filename: asterisk-core-sounds-voicemail-it-sln16-digium_1.0.1-r1_all.ipk
+Size: 9751457
+SHA256sum: aa8fa24fbf03c6067561a2734bea4ba4c588f03f231668217db5fb618965258d
+Description:  it core voice mail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-it-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-it-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2764800
+Filename: asterisk-core-sounds-voicemail-it-ulaw-digium_1.0.1-r1_all.ipk
+Size: 2449335
+SHA256sum: 87038d3c6214afff0fb34975e1cfa4cda3800a0513bdde2b5d0b5696e600d5f1
+Description:  it core voice mail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-it-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-it-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5427200
+Filename: asterisk-core-sounds-voicemail-it-wav-digium_1.0.1-r1_all.ipk
+Size: 4786526
+SHA256sum: 636ce40f18921dbd17990733104fac84a21b9af119692002fc04d29177261f5d
+Description:  it core voice mail Files. wav format
+
+Package: asterisk-core-sounds-voicemail-ja-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ja-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2959360
+Filename: asterisk-core-sounds-voicemail-ja-alaw-digium_1.0.1-r1_all.ipk
+Size: 2354930
+SHA256sum: 993d2a57dc255e1c9cede4167a6c413c84d7354fd3af29e61cd0f17d4977b782
+Description:  ja core voice mail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-ja-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ja-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2959360
+Filename: asterisk-core-sounds-voicemail-ja-g722-digium_1.0.1-r1_all.ipk
+Size: 2535587
+SHA256sum: 8053114e78dd49838f630de18ef948d51a098843bd19aa7b0a83fc3919131678
+Description:  ja core voice mail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-ja-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ja-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 450560
+Filename: asterisk-core-sounds-voicemail-ja-g729-digium_1.0.1-r1_all.ipk
+Size: 361167
+SHA256sum: 236b559c90ba0867a6152f892d307b93a75c34e2bc8707ce0eaa2637b70280c9
+Description:  ja core voice mail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-ja-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ja-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 686080
+Filename: asterisk-core-sounds-voicemail-ja-gsm-digium_1.0.1-r1_all.ipk
+Size: 581538
+SHA256sum: 74214fa2041073473efce44147dd6011fe27789fd0708e27d1e5587c4202a161
+Description:  ja core voice mail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-ja-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ja-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2232320
+Filename: asterisk-core-sounds-voicemail-ja-siren14-digium_1.0.1-r1_all.ipk
+Size: 2108822
+SHA256sum: 347a68fec7a4ab770ba0be0814bc50d46ffadc95d3b32c8e7aa40c4cf0fe1ed7
+Description:  ja core voice mail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-ja-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ja-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1515520
+Filename: asterisk-core-sounds-voicemail-ja-siren7-digium_1.0.1-r1_all.ipk
+Size: 1350825
+SHA256sum: 21b3205b9244faf4ed4c31fca5b8ed6118737283b3c8886f2c3dcaeb41d7c707
+Description:  ja core voice mail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-ja-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ja-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 11520000
+Filename: asterisk-core-sounds-voicemail-ja-sln16-digium_1.0.1-r1_all.ipk
+Size: 9818639
+SHA256sum: 4a860926d7b45a18b189c3b0d511554bb268b04efa55af79e0a842141a272a15
+Description:  ja core voice mail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-ja-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ja-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2959360
+Filename: asterisk-core-sounds-voicemail-ja-ulaw-digium_1.0.1-r1_all.ipk
+Size: 2463619
+SHA256sum: c570cb3fc105cfe2ac08c5d1d6261381683a8c5fb97b1e14a2a03b5d0e38df57
+Description:  ja core voice mail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-ja-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ja-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5806080
+Filename: asterisk-core-sounds-voicemail-ja-wav-digium_1.0.1-r1_all.ipk
+Size: 4897063
+SHA256sum: a40261eae746507ceae22c17c96d7df12a5bae40cad2d5370ab1dd23462deb49
+Description:  ja core voice mail Files. wav format
+
+Package: asterisk-core-sounds-voicemail-ru-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ru-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2846720
+Filename: asterisk-core-sounds-voicemail-ru-alaw-digium_1.0.1-r1_all.ipk
+Size: 2475336
+SHA256sum: d2d7297c918f300c2b5bf7e5c3853d6484cf0efcbc3192ab048559ef8254ee26
+Description:  ru core voice mail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-ru-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ru-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2846720
+Filename: asterisk-core-sounds-voicemail-ru-g722-digium_1.0.1-r1_all.ipk
+Size: 2489090
+SHA256sum: c7383df04e2ee0641c73fa599881feef252efdcdf4ff49bb6a8032d09f69c691
+Description:  ru core voice mail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-ru-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ru-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 440320
+Filename: asterisk-core-sounds-voicemail-ru-g729-digium_1.0.1-r1_all.ipk
+Size: 348361
+SHA256sum: fdd3e82eb83cbc1f876a25d3b61655b4acbefaa25a6df67b43ae7d856587e791
+Description:  ru core voice mail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-ru-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ru-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 665600
+Filename: asterisk-core-sounds-voicemail-ru-gsm-digium_1.0.1-r1_all.ipk
+Size: 565308
+SHA256sum: 4510d577d6f1089af34f4245691f8639e1910da733d5a9a46cac1b03f4979aa6
+Description:  ru core voice mail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-ru-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ru-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2150400
+Filename: asterisk-core-sounds-voicemail-ru-siren14-digium_1.0.1-r1_all.ipk
+Size: 2054810
+SHA256sum: 7ad227674f33073364af5b8baf47b4c9a353414ad2bef237d9c8c688c18f503a
+Description:  ru core voice mail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-ru-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ru-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1464320
+Filename: asterisk-core-sounds-voicemail-ru-siren7-digium_1.0.1-r1_all.ipk
+Size: 1360658
+SHA256sum: 2c69b540cf593b7c79db0b07f668cd7699c72d592d70d037d270e5a6ef155493
+Description:  ru core voice mail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-ru-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ru-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 11079680
+Filename: asterisk-core-sounds-voicemail-ru-sln16-digium_1.0.1-r1_all.ipk
+Size: 9983341
+SHA256sum: 18dc9020d2fc591f82ca91139f14fe8020f7e882373996bbee27897e0a00cf89
+Description:  ru core voice mail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-ru-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ru-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2846720
+Filename: asterisk-core-sounds-voicemail-ru-ulaw-digium_1.0.1-r1_all.ipk
+Size: 2527237
+SHA256sum: c1c7d21d0a6a6dfe7a59ae70468d7074a7ae02e36764549b2263f2aa1400ea9a
+Description:  ru core voice mail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-ru-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-ru-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5591040
+Filename: asterisk-core-sounds-voicemail-ru-wav-digium_1.0.1-r1_all.ipk
+Size: 4901514
+SHA256sum: 8811811021be8f8a0b5d15e81d4f4382e8c6b97ec72afe24a6c207da9522eaf1
+Description:  ru core voice mail Files. wav format
+
+Package: asterisk-core-sounds-voicemail-sv-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-sv-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2580480
+Filename: asterisk-core-sounds-voicemail-sv-alaw-digium_1.0.1-r1_all.ipk
+Size: 1697378
+SHA256sum: 61d9f47e3736ceb5955c666ba9f6a821bfc76d8c5376426b89f7efb2feb0ed20
+Description:  sv core voice mail Files. alaw format
+
+Package: asterisk-core-sounds-voicemail-sv-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-sv-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2580480
+Filename: asterisk-core-sounds-voicemail-sv-g722-digium_1.0.1-r1_all.ipk
+Size: 2098477
+SHA256sum: b0ae1b5d054375658c8c5ec6aac398ec3333099a946d12b96decfbbfbf2b43b3
+Description:  sv core voice mail Files. g722 format
+
+Package: asterisk-core-sounds-voicemail-sv-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-sv-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 409600
+Filename: asterisk-core-sounds-voicemail-sv-g729-digium_1.0.1-r1_all.ipk
+Size: 314395
+SHA256sum: 577d4fce1dde42ecd593797860aa7bed1c7709caf589c6dd6c746d735e14e3f9
+Description:  sv core voice mail Files. g729 format
+
+Package: asterisk-core-sounds-voicemail-sv-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-sv-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 614400
+Filename: asterisk-core-sounds-voicemail-sv-gsm-digium_1.0.1-r1_all.ipk
+Size: 488209
+SHA256sum: e53e692960a75a85534607bdb4defef8a5df5ac67cdab627b6fe0d71ad2b6f4c
+Description:  sv core voice mail Files. gsm format
+
+Package: asterisk-core-sounds-voicemail-sv-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-sv-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1955840
+Filename: asterisk-core-sounds-voicemail-sv-siren14-digium_1.0.1-r1_all.ipk
+Size: 1844679
+SHA256sum: 2fabcff1749e435ed789bca143b6784a54bee009238524d1c00cbfc086916a63
+Description:  sv core voice mail Files. siren14 format
+
+Package: asterisk-core-sounds-voicemail-sv-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-sv-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1331200
+Filename: asterisk-core-sounds-voicemail-sv-siren7-digium_1.0.1-r1_all.ipk
+Size: 1229557
+SHA256sum: fe3eedeac556c6f5e36e86ca367dce7db21f1559d08cf9135b49925afa40a059
+Description:  sv core voice mail Files. siren7 format
+
+Package: asterisk-core-sounds-voicemail-sv-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-sv-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 10045440
+Filename: asterisk-core-sounds-voicemail-sv-sln16-digium_1.0.1-r1_all.ipk
+Size: 7591588
+SHA256sum: 3fa259c9e677b68d14bfac538b485ec41ae780bb2a48d7f176f632d67c527009
+Description:  sv core voice mail Files. sln16 format
+
+Package: asterisk-core-sounds-voicemail-sv-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-sv-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2580480
+Filename: asterisk-core-sounds-voicemail-sv-ulaw-digium_1.0.1-r1_all.ipk
+Size: 1801521
+SHA256sum: acc5ccd19ae5a65c68099e96f107e02048f949b0821a5534770a4b034cd9c92e
+Description:  sv core voice mail Files. ulaw format
+
+Package: asterisk-core-sounds-voicemail-sv-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-core-sounds-voicemail-sv-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5079040
+Filename: asterisk-core-sounds-voicemail-sv-wav-digium_1.0.1-r1_all.ipk
+Size: 3747731
+SHA256sum: 45294c45c422f2245123fc0988a39eb925451243cab7794f8ba413c81e0a6683
+Description:  sv core voice mail Files. wav format
+
+Package: asterisk-extra-sounds-en-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 21688320
+Filename: asterisk-extra-sounds-en-alaw-digium_1.0.1-r1_all.ipk
+Size: 17438510
+SHA256sum: 37e2c5ff35dfb8e7c23e2fcc7b1db171c72528f0c5ba7e8ad5f73dfaeece9f00
+Description:  en extra sound Files. alaw format
+
+Package: asterisk-extra-sounds-en-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 21688320
+Filename: asterisk-extra-sounds-en-g722-digium_1.0.1-r1_all.ipk
+Size: 17786081
+SHA256sum: 2ab7f446ccbafb5b2191ec1fc49f12a3c96e798923d0d6640a4c879269a6a5f4
+Description:  en extra sound Files. g722 format
+
+Package: asterisk-extra-sounds-en-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3624960
+Filename: asterisk-extra-sounds-en-g729-digium_1.0.1-r1_all.ipk
+Size: 2632729
+SHA256sum: 4a79df93e47ad23ae610d812699785d39bfd7961adbe10e0983f90f3e7ae0043
+Description:  en extra sound Files. g729 format
+
+Package: asterisk-extra-sounds-en-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 5294080
+Filename: asterisk-extra-sounds-en-gsm-digium_1.0.1-r1_all.ipk
+Size: 4221606
+SHA256sum: 9e8efca15af19f3308d743dde55fd0722be71c76d7e6ad184e54c2948cc89801
+Description:  en extra sound Files. gsm format
+
+Package: asterisk-extra-sounds-en-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 16527360
+Filename: asterisk-extra-sounds-en-siren14-digium_1.0.1-r1_all.ipk
+Size: 15122475
+SHA256sum: 14f0c9175c6df0fc60324d755e309e4a66eb4b8e9cf2d0b0fdd853dc5446676b
+Description:  en extra sound Files. siren14 format
+
+Package: asterisk-extra-sounds-en-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 11356160
+Filename: asterisk-extra-sounds-en-siren7-digium_1.0.1-r1_all.ipk
+Size: 10191169
+SHA256sum: 1a860590e00fbd07ebc1083e2a2b9c5fae1a2dc7686d9ddb48704ea910fffd58
+Description:  en extra sound Files. siren7 format
+
+Package: asterisk-extra-sounds-en-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 83640320
+Filename: asterisk-extra-sounds-en-sln16-digium_1.0.1-r1_all.ipk
+Size: 71751819
+SHA256sum: 98a130141c17e1833ea0f5fab4e26833aea352c5b349e7e2eb039af17f01cfaf
+Description:  en extra sound Files. sln16 format
+
+Package: asterisk-extra-sounds-en-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 21688320
+Filename: asterisk-extra-sounds-en-ulaw-digium_1.0.1-r1_all.ipk
+Size: 17980179
+SHA256sum: 04aeec2c8d3d020efb5bb1576d6f16c570dc099543ab509022b4498d4cb918df
+Description:  en extra sound Files. ulaw format
+
+Package: asterisk-extra-sounds-en-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 42506240
+Filename: asterisk-extra-sounds-en-wav-digium_1.0.1-r1_all.ipk
+Size: 35340285
+SHA256sum: 623fd56c19c4a6512822d1d2ab71e22f1f9f9e189a0e20083cad8c34cc0fcddb
+Description:  en extra sound Files. wav format
+
+Package: asterisk-extra-sounds-en_GB-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en_GB-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 16332800
+Filename: asterisk-extra-sounds-en_GB-alaw-digium_1.0.1-r1_all.ipk
+Size: 12695183
+SHA256sum: 6bc0f9e41819dc0689bc8b4eb19c7362fef51c8baffbdc9737bf10633648951b
+Description:  en_GB extra sound Files. alaw format
+
+Package: asterisk-extra-sounds-en_GB-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en_GB-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 16332800
+Filename: asterisk-extra-sounds-en_GB-g722-digium_1.0.1-r1_all.ipk
+Size: 13520908
+SHA256sum: d83b277038c95f9b568d4bc555552f69c36aed33f9520178eb8c2abb46fddcdc
+Description:  en_GB extra sound Files. g722 format
+
+Package: asterisk-extra-sounds-en_GB-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en_GB-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2856960
+Filename: asterisk-extra-sounds-en_GB-g729-digium_1.0.1-r1_all.ipk
+Size: 1958988
+SHA256sum: f269893a25873cdcdd12ab470748300878eb3b498633917fd8111ac3a4531340
+Description:  en_GB extra sound Files. g729 format
+
+Package: asterisk-extra-sounds-en_GB-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en_GB-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 4126720
+Filename: asterisk-extra-sounds-en_GB-gsm-digium_1.0.1-r1_all.ipk
+Size: 3123977
+SHA256sum: 0262b2a9ae6a2829c4ae238088f964f5b3624abd86a47bb8289a92ba1b9d94d8
+Description:  en_GB extra sound Files. gsm format
+
+Package: asterisk-extra-sounds-en_GB-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en_GB-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 12410880
+Filename: asterisk-extra-sounds-en_GB-siren14-digium_1.0.1-r1_all.ipk
+Size: 11506947
+SHA256sum: 3fd9bb935cc9d997e0865f24611ac002a0947d7a7892701d52f184854a5e895e
+Description:  en_GB extra sound Files. siren14 format
+
+Package: asterisk-extra-sounds-en_GB-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en_GB-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8581120
+Filename: asterisk-extra-sounds-en_GB-siren7-digium_1.0.1-r1_all.ipk
+Size: 7649344
+SHA256sum: 8f368e482e2e93900b494baa3a0167f27dce0ba89da784c7b15f100d8b95d956
+Description:  en_GB extra sound Files. siren7 format
+
+Package: asterisk-extra-sounds-en_GB-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en_GB-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 62464000
+Filename: asterisk-extra-sounds-en_GB-sln16-digium_1.0.1-r1_all.ipk
+Size: 51239366
+SHA256sum: d49de5a556affe491671cc0ad1f16bceea334df04e293717c253d99b47adf612
+Description:  en_GB extra sound Files. sln16 format
+
+Package: asterisk-extra-sounds-en_GB-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en_GB-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 16332800
+Filename: asterisk-extra-sounds-en_GB-ulaw-digium_1.0.1-r1_all.ipk
+Size: 13193846
+SHA256sum: f5d5eb43e280b3e4125cf460f8a4dc94175d36a65c4f38ac9f1a9e38c6ca005e
+Description:  en_GB extra sound Files. ulaw format
+
+Package: asterisk-extra-sounds-en_GB-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-en_GB-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 31784960
+Filename: asterisk-extra-sounds-en_GB-wav-digium_1.0.1-r1_all.ipk
+Size: 25209898
+SHA256sum: b0d7fc8589b952babb026c14a0c78eebf78064afe0056c442eeb01e30603cbc4
+Description:  en_GB extra sound Files. wav format
+
+Package: asterisk-extra-sounds-fr-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-fr-alaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 14878720
+Filename: asterisk-extra-sounds-fr-alaw-digium_1.0.1-r1_all.ipk
+Size: 10999726
+SHA256sum: 8732c43c1386e423c67057f21926af3159ec03061490cf35cc1af3221ed853bc
+Description:  fr extra sound Files. alaw format
+
+Package: asterisk-extra-sounds-fr-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-fr-g722
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 14878720
+Filename: asterisk-extra-sounds-fr-g722-digium_1.0.1-r1_all.ipk
+Size: 12303322
+SHA256sum: a14d4b02e0f1279cd09ab4c951ebb590383bce54ed3cbcb5edf47345f1856cba
+Description:  fr extra sound Files. g722 format
+
+Package: asterisk-extra-sounds-fr-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-fr-g729
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 2600960
+Filename: asterisk-extra-sounds-fr-g729-digium_1.0.1-r1_all.ipk
+Size: 1785669
+SHA256sum: bd31994d7619f5dd8a614a0f0cedd04b5559c28569db365cf1e537fef1df506a
+Description:  fr extra sound Files. g729 format
+
+Package: asterisk-extra-sounds-fr-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-fr-gsm
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 3768320
+Filename: asterisk-extra-sounds-fr-gsm-digium_1.0.1-r1_all.ipk
+Size: 2825837
+SHA256sum: 918ed1b88b762b91b69278e317222d9a942eb8292f7cac2977f184a35b57e75b
+Description:  fr extra sound Files. gsm format
+
+Package: asterisk-extra-sounds-fr-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-fr-siren14
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 11304960
+Filename: asterisk-extra-sounds-fr-siren14-digium_1.0.1-r1_all.ipk
+Size: 10430141
+SHA256sum: 7502a2523100b2f475da64058dbbc3c9477787c0ac322c65bbccb758a671b481
+Description:  fr extra sound Files. siren14 format
+
+Package: asterisk-extra-sounds-fr-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-fr-siren7
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 7813120
+Filename: asterisk-extra-sounds-fr-siren7-digium_1.0.1-r1_all.ipk
+Size: 6828420
+SHA256sum: ca3df38dde7e7ca4ea8bf4a0b905de67e2921c270fe129fcaa6481979d9db45e
+Description:  fr extra sound Files. siren7 format
+
+Package: asterisk-extra-sounds-fr-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-fr-sln16
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 56944640
+Filename: asterisk-extra-sounds-fr-sln16-digium_1.0.1-r1_all.ipk
+Size: 46343816
+SHA256sum: 0b749dc457e3381b8158d93a310d576be68bfcabccd6298fce46e63225621fce
+Description:  fr extra sound Files. sln16 format
+
+Package: asterisk-extra-sounds-fr-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-fr-ulaw
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 14878720
+Filename: asterisk-extra-sounds-fr-ulaw-digium_1.0.1-r1_all.ipk
+Size: 11446854
+SHA256sum: 4d894fdb770b4184f002843543212caa39ad2bd9588b5aa1332b8eb75fd4fd8c
+Description:  fr extra sound Files. ulaw format
+
+Package: asterisk-extra-sounds-fr-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+Provides: asterisk-extra-sounds-fr-wav
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 28958720
+Filename: asterisk-extra-sounds-fr-wav-digium_1.0.1-r1_all.ipk
+Size: 22775698
+SHA256sum: 74ef3c675819726b7c8cab8615084b37617a8bedef5a346541207d1eb5da56d2
+Description:  fr extra sound Files. wav format
+
+Package: asterisk-moh-opsounds-alaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8867840
+Filename: asterisk-moh-opsounds-alaw-digium_1.0.1-r1_all.ipk
+Size: 7498010
+SHA256sum: 1567f2aa1331204d9f529e2077ad3653a051fa0329bb1c511a62afbf39b0a550
+Description:  moh sound Files. alaw format
+
+Package: asterisk-moh-opsounds-g722-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8867840
+Filename: asterisk-moh-opsounds-g722-digium_1.0.1-r1_all.ipk
+Size: 7926064
+SHA256sum: 2c396d0e3533a234502896d338c67868752be593f8b5b50a21ceb4e6b3124c1d
+Description:  moh sound Files. g722 format
+
+Package: asterisk-moh-opsounds-g729-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1116160
+Filename: asterisk-moh-opsounds-g729-digium_1.0.1-r1_all.ipk
+Size: 1103678
+SHA256sum: 0b29de54da200f8a21918949a3b35fd4dd2dd3c13c4c263779d809d15ace91a4
+Description:  moh sound Files. g729 format
+
+Package: asterisk-moh-opsounds-gsm-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 1843200
+Filename: asterisk-moh-opsounds-gsm-digium_1.0.1-r1_all.ipk
+Size: 1778627
+SHA256sum: 27b59d04de848abc313908ba275469fe4ff7c6ea4fd6cc541fc248048e58b21f
+Description:  moh sound Files. gsm format
+
+Package: asterisk-moh-opsounds-siren14-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 6656000
+Filename: asterisk-moh-opsounds-siren14-digium_1.0.1-r1_all.ipk
+Size: 6520161
+SHA256sum: 7de481f25b3f7b24cf55e8eed780389cc0a13aa7e072b067db247dc0ae15053d
+Description:  moh sound Files. siren14 format
+
+Package: asterisk-moh-opsounds-siren7-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 4444160
+Filename: asterisk-moh-opsounds-siren7-digium_1.0.1-r1_all.ipk
+Size: 4234530
+SHA256sum: 23b931be8e509bf6b14c62b9b20eb44f7bd2e2ee78a1b2a321ac8231c1974265
+Description:  moh sound Files. siren7 format
+
+Package: asterisk-moh-opsounds-sln16-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 35430400
+Filename: asterisk-moh-opsounds-sln16-digium_1.0.1-r1_all.ipk
+Size: 31312303
+SHA256sum: 7688116c4b8aff901dcfc4507c5fd2b9ef0e77d40cc920ee1286214123de7920
+Description:  moh sound Files. sln16 format
+
+Package: asterisk-moh-opsounds-ulaw-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 8867840
+Filename: asterisk-moh-opsounds-ulaw-digium_1.0.1-r1_all.ipk
+Size: 7481549
+SHA256sum: a9529aededc2535a7929192177f3b1501bbbab912f533758e7ca993fecbeabb3
+Description:  moh sound Files. ulaw format
+
+Package: asterisk-moh-opsounds-wav-digium
+Version: 1.0.1-r1
+Depends: libc, asterisk
+License: GPL-3.0
+Section: net
+Architecture: all
+Installed-Size: 17725440
+Filename: asterisk-moh-opsounds-wav-digium_1.0.1-r1_all.ipk
+Size: 15362497
+SHA256sum: d82f2ca4ae2301a8e9ab4d130653390fda45c5b0900d0fa0f5ff6faa80c9869a
+Description:  moh sound Files. wav format
+
